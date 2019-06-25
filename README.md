@@ -1,7 +1,7 @@
 # pods-cv
 
 ## CV Assignment
-1. Create a list of skills you have learned in the program
+1. Add your education and create a list of skills you have learned in the program
 2. Create a paragraph description of what you have learned in the program
 3. Create a list of skills or topics that you feel capable of learning now
 
